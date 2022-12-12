@@ -4,7 +4,6 @@ I'm Anubhab ,ECE undergrad NITR currently learning new stuffs and languages and 
 
 Skills:  HTML / CSS / JS / REACT / NEXT/ TYPESCRIPT / TAILWIND CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
